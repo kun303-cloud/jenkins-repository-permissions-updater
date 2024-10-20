@@ -7,3 +7,5 @@ developers:
 - "thomson_519"
 issues:
   - jira: 29521
+cd:
+  enabled: true
